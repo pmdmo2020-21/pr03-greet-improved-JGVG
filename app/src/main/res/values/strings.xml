@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Greet Improved</string>
+    <string name="switch_text">Premium</string>
+    <string name="edittext_text_01">Name</string>
+    <string name="edittext_text_02">Surname</string>
+    <string name="radiogroup_text">Treatment</string>
+    <string name="radiobutton_text_01">Mr.</string>
+    <string name="radiobutton_text_02">Mrs.</string>
+    <string name="radiobutton_text_03">Ms.</string>
+    <string name="checkbox_text">Politely</string>
+    <string name="clickbutton_text">greet</string>
+    <string name="progress_bar_text">%1$d of %2$d</string>
+    <string name="menssage_politely_text">Good morning %1$s %2$s %3$s. Pleased to meet you</string>
+    <string name="menssage_colloquially_text">Hello %1$s %2$s. What\'s up?</string>
+    <string name="buy_premium_text">Buy premium subscription to go on greting!!</string>
+    <string name="main_required">Required</string>
 </resources>

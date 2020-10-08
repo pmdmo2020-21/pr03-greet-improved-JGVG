@@ -1,3 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <dimen name="parent_padding">30dp</dimen>
+    <dimen name="padding_radiorutton">42dp</dimen>
+    <dimen name="margin_views">15dp</dimen>
+    <dimen name="margin_radiobutton">10dp</dimen>
 </resources>
